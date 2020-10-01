@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Ingeniería de sistemas</string>
+    <string name="titulo">"Registro de estudiante"</string>
+    <string name="nombres">"Nombres"</string>
+    <string name="apellidos">"Apellidos"</string>
+    <string name="dni">"DNI"</string>
+    <string name="cui">"CUI"</string>
+    <string name="telefono">"Telefono"</string>
+    <string name="aceptar">"Aceptar"</string>
+</resources>
