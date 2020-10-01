@@ -6,5 +6,5 @@
     <string name="dni">"DNI"</string>
     <string name="cui">"CUI"</string>
     <string name="telefono">"Telefono"</string>
-    <string name="aceptar">"Aceptar"</string>
+    <string name="guardar">"Guardar"</string>
 </resources>
